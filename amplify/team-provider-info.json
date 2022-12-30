@@ -10,6 +10,11 @@
       "StackName": "amplify-amplifybuiltinlogin-dev-205948",
       "StackId": "arn:aws:cloudformation:sa-east-1:327697744321:stack/amplify-amplifybuiltinlogin-dev-205948/e0bd43f0-87d4-11ed-b307-0a05bc19501c",
       "AmplifyAppId": "d3uj48k2366v3r"
+    },
+    "categories": {
+      "auth": {
+        "amplifybuiltinlogin34741290": {}
+      }
     }
   }
 }
