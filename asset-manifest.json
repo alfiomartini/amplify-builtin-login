@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/amplify-builtin-ui/static/css/main.7cf99086.css",
-    "main.js": "/amplify-builtin-ui/static/js/main.5ac691e7.js",
-    "index.html": "/amplify-builtin-ui/index.html",
-    "main.7cf99086.css.map": "/amplify-builtin-ui/static/css/main.7cf99086.css.map",
-    "main.5ac691e7.js.map": "/amplify-builtin-ui/static/js/main.5ac691e7.js.map"
+    "main.css": "/amplify-builtin-login/static/css/main.7cf99086.css",
+    "main.js": "/amplify-builtin-login/static/js/main.5ac691e7.js",
+    "index.html": "/amplify-builtin-login/index.html",
+    "main.7cf99086.css.map": "/amplify-builtin-login/static/css/main.7cf99086.css.map",
+    "main.5ac691e7.js.map": "/amplify-builtin-login/static/js/main.5ac691e7.js.map"
   },
   "entrypoints": [
     "static/css/main.7cf99086.css",
