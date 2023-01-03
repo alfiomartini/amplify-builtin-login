@@ -1,5 +1,6 @@
 {
   "name": "amplify-builtin-login",
+  "homepage": "https://alfiomartini.github.io/amplify-builtin-ui",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,8 +15,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -37,6 +38,9 @@
   },
   "devDependencies": {
     "@aws-amplify/ui-react": "^4.3.2",
-    "aws-amplify": "^5.0.8"
+    "aws-amplify": "^5.0.8",
+    "gh-pages": "^4.0.0",
+    "react-router": "^5.3.4",
+    "react-router-dom": "^5.3.4"
   }
 }
