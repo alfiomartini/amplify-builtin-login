@@ -1,6 +1,6 @@
 {
   "name": "amplify-builtin-login",
-  "homepage": "https://alfiomartini.github.io/amplify-builtin-ui",
+  "homepage": "https://alfiomartini.github.io/amplify-builtin-login",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
